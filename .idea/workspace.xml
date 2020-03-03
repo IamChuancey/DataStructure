@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2371be2-22e2-4639-821c-e0ce8873d33f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetcodeEasy$removeElementfromArray.ic" NAME="removeElementfromArray Coverage Results" MODIFIED="1564319880769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VeLraLuXdqfAd8vyTD4Li2sPF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576659590208" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="Queue" />
+      <recent name="List" />
+      <recent name="Stack" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Graph/Prim" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BTree">
+    <configuration name="BPlusTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.BPlusTree.BPlusTree" />
+      <module name="DataStructure2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.BPlusTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.BTree.BTTree" />
+      <module name="DataStructure2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.BTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.BTree.BTree" />
+      <module name="DataStructure2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.BTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Huffman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Huffman" />
+      <module name="DataStructure2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkipList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Search.skipList.SkipList" />
+      <module name="DataStructure2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Search.skipList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.2" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.2" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="LeetcodeEasy:ear exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="LeetcodeEasy:ear exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BTree" />
+        <item itemvalue="Application.BTTree" />
+        <item itemvalue="Application.SkipList" />
+        <item itemvalue="Application.Huffman" />
+        <item itemvalue="Application.BPlusTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2371be2-22e2-4639-821c-e0ce8873d33f" name="Default Changelist" comment="" />
+      <created>1564058003594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564058003594</updated>
+      <workItem from="1564058007801" duration="2935000" />
+      <workItem from="1564303263678" duration="6478000" />
+      <workItem from="1564404657624" duration="1585000" />
+      <workItem from="1564487737378" duration="3743000" />
+      <workItem from="1564923701332" duration="1489000" />
+      <workItem from="1564965703592" duration="839000" />
+      <workItem from="1565099239679" duration="299000" />
+      <workItem from="1565184481456" duration="2225000" />
+      <workItem from="1565448464273" duration="2743000" />
+      <workItem from="1565511493359" duration="1813000" />
+      <workItem from="1567133997041" duration="111000" />
+      <workItem from="1567350932768" duration="1735000" />
+      <workItem from="1569503917204" duration="183000" />
+      <workItem from="1569504489186" duration="14000" />
+      <workItem from="1571619869429" duration="1189000" />
+      <workItem from="1571645161054" duration="1452000" />
+      <workItem from="1571665096855" duration="3356000" />
+      <workItem from="1571671797239" duration="907000" />
+      <workItem from="1571673239132" duration="615000" />
+      <workItem from="1571706032224" duration="2267000" />
+      <workItem from="1571792789445" duration="45000" />
+      <workItem from="1571794984258" duration="2882000" />
+      <workItem from="1571799944837" duration="917000" />
+      <workItem from="1571879367788" duration="6674000" />
+      <workItem from="1572318231286" duration="1622000" />
+      <workItem from="1572570434473" duration="2708000" />
+      <workItem from="1573226302851" duration="569000" />
+      <workItem from="1573520475050" duration="14685000" />
+      <workItem from="1573655654455" duration="1175000" />
+      <workItem from="1573694985111" duration="318000" />
+      <workItem from="1573718060299" duration="7752000" />
+      <workItem from="1573779463082" duration="5251000" />
+      <workItem from="1573797117423" duration="2228000" />
+      <workItem from="1575248640729" duration="2494000" />
+      <workItem from="1575271119986" duration="6046000" />
+      <workItem from="1575436002583" duration="3001000" />
+      <workItem from="1575894586260" duration="1207000" />
+      <workItem from="1575939813737" duration="12878000" />
+      <workItem from="1576130548373" duration="3478000" />
+      <workItem from="1576135904203" duration="25000" />
+      <workItem from="1576206495340" duration="8489000" />
+      <workItem from="1576317123064" duration="10395000" />
+      <workItem from="1576417934824" duration="185000" />
+      <workItem from="1576651504717" duration="7829000" />
+      <workItem from="1576824681671" duration="80000" />
+      <workItem from="1577608820861" duration="11000" />
+      <workItem from="1577944199882" duration="1337000" />
+      <workItem from="1577966133901" duration="934000" />
+      <workItem from="1577967356604" duration="128000" />
+      <workItem from="1578038520489" duration="3012000" />
+      <workItem from="1578051250431" duration="1928000" />
+      <workItem from="1578054959634" duration="5845000" />
+      <workItem from="1578360413007" duration="3610000" />
+      <workItem from="1578366144335" duration="7000" />
+      <workItem from="1578406606441" duration="1694000" />
+      <workItem from="1578410204566" duration="4460000" />
+      <workItem from="1578812810302" duration="7346000" />
+      <workItem from="1578830500545" duration="2990000" />
+      <workItem from="1579145962621" duration="834000" />
+      <workItem from="1579161816037" duration="6495000" />
+      <workItem from="1579187276638" duration="3528000" />
+      <workItem from="1579195480610" duration="17689000" />
+      <workItem from="1579582635183" duration="36000" />
+      <workItem from="1579677923234" duration="66000" />
+      <workItem from="1579678442018" duration="7283000" />
+      <workItem from="1579761988721" duration="6233000" />
+      <workItem from="1579769720217" duration="9139000" />
+      <workItem from="1579864030950" duration="110000" />
+      <workItem from="1579919893974" duration="51000" />
+      <workItem from="1579921278503" duration="42000" />
+      <workItem from="1580003754733" duration="4749000" />
+      <workItem from="1580041288337" duration="2441000" />
+      <workItem from="1580044206990" duration="3818000" />
+      <workItem from="1580089894043" duration="4914000" />
+      <workItem from="1580260396152" duration="3853000" />
+      <workItem from="1580282288544" duration="2044000" />
+      <workItem from="1580302838911" duration="3143000" />
+      <workItem from="1580348308045" duration="3052000" />
+      <workItem from="1580523514902" duration="4593000" />
+      <workItem from="1580537070776" duration="1023000" />
+      <workItem from="1580538885730" duration="7877000" />
+      <workItem from="1580731184073" duration="2553000" />
+      <workItem from="1580781881817" duration="3474000" />
+      <workItem from="1580786781753" duration="143000" />
+      <workItem from="1580815514640" duration="6600000" />
+      <workItem from="1580887472596" duration="1440000" />
+      <workItem from="1580900271648" duration="3860000" />
+      <workItem from="1580949248434" duration="14220000" />
+      <workItem from="1581050457452" duration="13233000" />
+      <workItem from="1581299173639" duration="15948000" />
+      <workItem from="1581470309496" duration="8091000" />
+      <workItem from="1581490040803" duration="1008000" />
+      <workItem from="1581492672138" duration="2160000" />
+      <workItem from="1581751896468" duration="6566000" />
+      <workItem from="1581823011450" duration="13092000" />
+      <workItem from="1581924235944" duration="1697000" />
+      <workItem from="1582000850919" duration="10650000" />
+      <workItem from="1582083673260" duration="5984000" />
+      <workItem from="1582167461904" duration="205000" />
+      <workItem from="1582170071510" duration="189000" />
+      <workItem from="1582185725983" duration="11140000" />
+      <workItem from="1582205889441" duration="48000" />
+      <workItem from="1582249380481" duration="523000" />
+      <workItem from="1582249990794" duration="2126000" />
+      <workItem from="1582254822083" duration="748000" />
+      <workItem from="1582259072852" duration="4702000" />
+      <workItem from="1582266704495" duration="384000" />
+      <workItem from="1582346054371" duration="1246000" />
+      <workItem from="1582373933036" duration="3035000" />
+      <workItem from="1582421731045" duration="98000" />
+      <workItem from="1582440971329" duration="6986000" />
+      <workItem from="1582529261998" duration="146000" />
+      <workItem from="1582590739088" duration="3469000" />
+      <workItem from="1582611889536" duration="379000" />
+      <workItem from="1582613345657" duration="847000" />
+      <workItem from="1582617388144" duration="338000" />
+      <workItem from="1582626124470" duration="9134000" />
+      <workItem from="1582678925555" duration="6246000" />
+      <workItem from="1582690414587" duration="1983000" />
+      <workItem from="1582698726281" duration="10077000" />
+      <workItem from="1582767914287" duration="7021000" />
+      <workItem from="1582805024663" duration="1560000" />
+      <workItem from="1582855571591" duration="9060000" />
+      <workItem from="1582889587672" duration="295000" />
+      <workItem from="1582974982265" duration="8864000" />
+      <workItem from="1583060821863" duration="22469000" />
+      <workItem from="1583197664221" duration="8969000" />
+      <workItem from="1583225563407" duration="2000" />
+      <workItem from="1583225958403" duration="75000" />
+      <workItem from="1583226244006" duration="86000" />
+      <workItem from="1583226499345" duration="357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="377" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1582770432774">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="377" y="136" key="#com.intellij.ide.util.MemberChooser/0.23.1440.807@0.23.1440.807" timestamp="1582770432774" />
+    <state x="295" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582632379186">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="295" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.807@0.23.1440.807" timestamp="1582632379186" />
+    <state width="468" height="466" key="DebuggerActiveHint" timestamp="1582776927778">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="468" height="466" key="DebuggerActiveHint/0.23.1440.807@0.23.1440.807" timestamp="1582776927778" />
+    <state width="1234" height="366" key="GridCell.Tab.0.bottom" timestamp="1583226543359">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.bottom/0.0.1440.830@0.0.1440.830" timestamp="1580561128570" />
+    <state width="1234" height="366" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1583226543359" />
+    <state width="1358" height="239" key="GridCell.Tab.0.bottom/1440.23.1920.987/0.23.1440.877@1440.23.1920.987" timestamp="1578447749479" />
+    <state width="1234" height="366" key="GridCell.Tab.0.center" timestamp="1583226543358">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.center/0.0.1440.830@0.0.1440.830" timestamp="1580561128568" />
+    <state width="1234" height="366" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1583226543358" />
+    <state width="1358" height="239" key="GridCell.Tab.0.center/1440.23.1920.987/0.23.1440.877@1440.23.1920.987" timestamp="1578447749478" />
+    <state width="1234" height="366" key="GridCell.Tab.0.left" timestamp="1583226543357">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.left/0.0.1440.830@0.0.1440.830" timestamp="1580561128567" />
+    <state width="1234" height="366" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1583226543357" />
+    <state width="1358" height="239" key="GridCell.Tab.0.left/1440.23.1920.987/0.23.1440.877@1440.23.1920.987" timestamp="1578447749477" />
+    <state width="1234" height="366" key="GridCell.Tab.0.right" timestamp="1583226543359">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1398" height="283" key="GridCell.Tab.0.right/0.0.1440.830@0.0.1440.830" timestamp="1580561128569" />
+    <state width="1234" height="366" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1583226543359" />
+    <state width="1358" height="239" key="GridCell.Tab.0.right/1440.23.1920.987/0.23.1440.877@1440.23.1920.987" timestamp="1578447749479" />
+    <state x="250" y="38" key="SettingsEditor" timestamp="1582266861221">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="250" y="38" key="SettingsEditor/0.23.1440.807@0.23.1440.807" timestamp="1582266861221" />
+    <state x="227" y="170" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583031659999">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="227" y="170" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.807@0.23.1440.807" timestamp="1583031659999" />
+    <state x="394" y="122" width="673" height="708" key="find.popup" timestamp="1582373972302">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="394" y="122" width="673" height="708" key="find.popup/0.23.1440.807@0.23.1440.807" timestamp="1582373972302" />
+    <state x="321" y="154" width="670" height="676" key="search.everywhere.popup" timestamp="1583116380838">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="321" y="154" width="670" height="676" key="search.everywhere.popup/0.23.1440.807@0.23.1440.807" timestamp="1583116380838" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Set/UnionFind2.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetcodeEasy$RBTree.ic" NAME="RBTree Coverage Results" MODIFIED="1579787157947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LeetcodeEasy$mergeTwoOrderedList.ic" NAME="mergeTwoOrderedList Coverage Results" MODIFIED="1582249535320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
