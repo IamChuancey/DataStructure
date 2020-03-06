@@ -1,2 +1,2 @@
 # 数据结构
-![数据结构](/doc/image.png)
+![数据结构](./doc/image.png)

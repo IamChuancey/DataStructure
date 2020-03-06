@@ -1,5 +1,6 @@
 package Queue;
 
+//单链表实现的队列
 public class LinkedListBasedQueue {
    private Node head;
    private Node tail;

@@ -1,6 +1,9 @@
-package Queue;
+package Queue.CircularQueue;
 
-//链式循环队列：直接成链
+import Queue.LinkedListBasedQueue;
+import Queue.Node;
+
+//链式循环队列：单链表
 public class LinkedListBasedCircularQueue {
 
    private Node head;

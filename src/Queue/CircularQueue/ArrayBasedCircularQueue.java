@@ -1,5 +1,8 @@
-package Queue;
-
+package Queue.CircularQueue;
+/*
+   数组实现的双端队列:本质上是循环队列
+   head指向队首元素，tail指向队尾元素的下一位
+ */
 public class ArrayBasedCircularQueue {
     private int head=0;
     private int tail=0;
@@ -12,7 +15,7 @@ public class ArrayBasedCircularQueue {
     //入队
     public void enQueue(int item){
         //判断是否队满
-        if((tail+1)%(array.length)==head){
+       if((tail+1)%(array.length)==head){
           System.out.println("The queue is Full!");
           return;
         }
